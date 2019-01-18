@@ -1,5 +1,5 @@
 <?php
-
+echo "hello";exit;
 require_once __DIR__ . '/vendor/autoload.php';
 
 use Bigcommerce\Api\Client as Bigcommerce;
